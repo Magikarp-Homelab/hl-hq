@@ -59,6 +59,8 @@ Nidavellir
 * Hosting Gameservers
 
 ## Current Diagram
+Planned not yet built
+<img src="https://github.com/Magikarp-Homelab/hl-hq/blob/main/network_diagram.png"/>
 
 ## Naming Concept
 Physical Servers are namen after the 9 reals from norse mythology because pog.
