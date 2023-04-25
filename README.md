@@ -17,6 +17,14 @@ Storage Server aka Old PC aka Jotunheim
 * GPU: (R9 390 Nitro Tri-X Sapphire)
 * RAM: 2x 4GB, 1600MHz, DDR3, Crucial Ballistix sport XT
 * PSU: 620W Seasonic Bronze
+* Storage
+	* WD Black 1TB
+	* WD Black 1TB
+	* WD Black 1TB
+	* WD Blue 1TB
+	* WD Blue 2TB -> Backup/FileStorage
+	* Sata SSD 250GB
+	* TOTAL: 6TB + OS ssd
 
 Application Server aka NK v5.0 aka Nidavellir
 * CPU: AMD Ryzen 5 4500, 3.6GHz 6 Core
