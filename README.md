@@ -42,23 +42,45 @@ Monitoring/Dashboard/Wiki aka Niflheim
 ## Planned Techstack Dump
 VMHOST
 * Proxmox
-
-Niflheim
+Niflheim - 192.168.1.240 - 254 inclusive
 * Bookstack
+  * Svol - 192.168.1.240
 * Prometheus
+  * Gunnthra - 192.168.1.241
 * Grafana
+  * Fjorm - 192.168.1.242
+* Webserver Frontend
+  * Fimbulthul - 192.168.243
 
-Jotunheim
+Jotunheim - 192.168.1.10 - 59 inclusive
+* TEMP Ansible Controller 192.168.1.50
+* TEMP Jenkins 192.168.1.51
+
 * MySQL
+  * Ymir - 192.168.1.10
 * MongoDB
+  * Aegir - 192.168.1.11
 * Apache Hadoop
 * Apache Pulsar
-* Cloud ?
+  * Broker
+    * Baugi - 192.168.1.12
+	* Beli - 192.168.1.13
+	* Bestla - 192.168.1.14
+  * Bookkeeper
+    * Dufa - 192.168.1.15
+	* Dumir - 192.168.1.16
+	* Drumba - 192.168.1.17
+* Cloud/samba
+  * Hrungnir - 192.168.1.21
 * Plex/Jellyfin ?
 * Random Storage ?
 
-Nidavellir
+Nidavellir 192.168.1.60 - 119 inclusive
 * Apache Zookeeper
+  * Pulsar ZK
+    * Fenja - 192.168.1.60
+	* Fenrir - 192.168.1.61
+	* Fala - 192.168.1.62
 * Apache Spark
 * Apache Druid ?
 * Apache Superset
@@ -80,6 +102,7 @@ Physical Servers are namen after the 9 reals from norse mythology because pog.
 * Jotunheim (Giants) [Taken by storage server]
 * Vanaheim (the other Gods)
 * Niflheim (Primordial Ice) [Taken by raspberry]
+* "...  from which spring the rivers called Svöl, Gunnthrá, Fjörm, Fimbulthul, Slídr and Hríd, Sylgr and Ylgr, Víd, Leiptr; Gjöll ..."
 * Muspelheim (Primordial Fire)
 * Helheim (Hell)
 
