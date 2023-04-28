@@ -43,7 +43,7 @@ Monitoring/Dashboard/Wiki aka Niflheim
 VMHOST
 * Proxmox
 Niflheim - 192.168.1.240 - 254 inclusive
-* Bookstack
+* Wiki.js
   * Svol - 192.168.1.240
 * Prometheus
   * Gunnthra - 192.168.1.241
